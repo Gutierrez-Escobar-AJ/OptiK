@@ -1,7 +1,7 @@
 # OptiK: An Entropy-Driven Framework for k-mer Size Optimization in Comparative Genomics
 
 <p align="center">
-  <img src="Logo/Logo.png" alt="ERICLoD Logo" width="350"/>
+  <img src="Logo.png" alt="ERICLoD Logo" width="350"/>
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
