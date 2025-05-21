@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE config
+.vscode/
+.idea/
+
+# OS trash
+.DS_Store
+
+# Ignore noisy outputs everywhere
+*.npy
+*.csv
+*.png
+*.txt
+
+# Allow PDFs in root (like OptiK_bioRxiv.pdf, OptiK_manual.pdf)
+!/*.pdf
+
+# Allow all files in these tracked folders
+!Figures/
+!Figures/**
+
+!HpGP_Data/
+!HpGP_Data/**
+
+!HpGP_Results/
+!HpGP_Results/**
+
+!Logo/
+!Logo/**

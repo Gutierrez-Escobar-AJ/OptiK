@@ -1,0 +1,14 @@
+Data availability
+The whole-genome sequences generated within the HpGP have been
+deposited in the NCBI GenBank database under BioProject accession
+code PRJNA529500
+-> https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
+
+
+More information about the HpGP study:
+-> https://dceg.cancer.gov/research/how-we-study/genomic-studies/h-pylori-genome-project
+
+Paper:
+-> https://www.nature.com/articles/s41467-023-43562-y
+
+
